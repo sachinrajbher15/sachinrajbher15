@@ -12,10 +12,10 @@
 - 🗃️ Database: MySQL, MongoDB, Firebase
 - 🛠️ Tools: Git, GitHub, Postman, Jupyter Notebook, Excel, NetBeans
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sachinrajbher15&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinrajbher15&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinrajbher15&layout=compact)-->
 
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/sachinrajbher15/)

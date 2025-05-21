@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there 👋 I'm Sachin Rajbher
 
-<!--
-**sachinrajbher15/sachinrajbher15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+🎓 Full-Stack Developer & Data Analyst  
+💡 Building scalable apps, analyzing data, and optimizing machine learning systems  
+🌱 Always learning, always building
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- 💻 Languages: Java, JavaScript, Python, SQL
+- 💻 Frontend: HTML5, CSS3, React.js, Bootstrap
+- 🧰 Backend: Node.js, Django, Spring Boot, PHP, REST APIs
+- 🗃️ Database: MySQL, MongoDB, Firebase
+- 🛠️ Tools: Git, GitHub, Postman, Jupyter Notebook, Excel, NetBeans
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sachinrajbher15&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinrajbher15&layout=compact)
+
+## 📫 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/sachinrajbher15/)
